@@ -1,0 +1,3 @@
+https://jee-appy.blogspot.com/2017/01/deply-django-with-nginx.html
+
+https://www.codewithharry.com/blogpost/django-deploy-nginx-gunicorn
